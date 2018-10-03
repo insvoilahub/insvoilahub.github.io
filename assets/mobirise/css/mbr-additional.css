@@ -411,3 +411,20 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#pricing-table2-5 .mbr-plan-header,
+#pricing-table2-5 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-5 ul,
+#pricing-table2-5 .mbr-plan-title,
+#pricing-table2-5 .mbr-price-value,
+#pricing-table2-5 .mbr-price-figure,
+#pricing-table2-5 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-5 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-5 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
